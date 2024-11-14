@@ -1,0 +1,11 @@
+rocket_dashboard/
+├── main.cpp              // Main file to run the dashboard
+├── EulerAngles.h         // Header file for EulerAngles class
+├── EulerAngles.cpp       // Implementation of EulerAngles class
+├── FinAngles.h           // Header file for FinAngles class
+├── FinAngles.cpp         // Implementation of FinAngles class
+├── PositionVelocity.h    // Header file for Position and Velocity classes
+├── PositionVelocity.cpp  // Implementation of Position and Velocity classes
+├── Acceleration.h        // Header file for Acceleration class
+├── Acceleration.cpp      // Implementation of Acceleration class
+└── Makefile              // Makefile to compile the project
